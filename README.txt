@@ -4,4 +4,4 @@ Projeto para demonstração de aprendizagem sobre o conteúdo Docker no curso Fu
 Projego Imagem Programa GO
 Docker: emersonpm/fullcyclerocks
 
-docker run emersonpm/fullcyclerocks
+command: docker run emersonpm/fullcyclerocks
